@@ -39,3 +39,4 @@ Playlist : https://www.youtube.com/playlist?list=PLn6POgpklwWrpWnv05paAdqbFbV6gA
 - 35. [TERRAFORM - 34. COMPRENDRE LES WORKSPACES (EX. MULTIENVIRONNEMENT)](https://www.youtube.com/watch?v=WcazKyt2n_U)
 
 # terraform22.xavki
+# terraform22.xavki
